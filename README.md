@@ -14,3 +14,9 @@ The dataset used in this project was the Superstore data from Kaggle: ["Supersto
 <img width="515" alt="image" src="https://github.com/user-attachments/assets/90d16696-30b4-4cae-8d19-3a0da2286c5e">
 
 
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/2799e491-eeda-4b4a-9fe6-a7859cb2a90d">
+
+
+
+
