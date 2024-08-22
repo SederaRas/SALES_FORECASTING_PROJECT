@@ -9,6 +9,8 @@ The entire process is detailed in the Jupyter notebook and summarized in the acc
 
 The dataset used in this project was the Superstore data from Kaggle: ["Superstore Sales Dataset"](https://www.kaggle.com/datasets/aditisaxena20/superstore-sales-dataset)
 
+
+
 <img width="515" alt="image" src="https://github.com/user-attachments/assets/90d16696-30b4-4cae-8d19-3a0da2286c5e">
 
 
