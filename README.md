@@ -1,12 +1,17 @@
 # SALES_FORECASTING_PROJECT
 ## A Comparative Analysis of Modern vs. Traditional Algorithmic Approaches to Sales and Profit Forecasting
 
-This research aims to compare the performance of modern methods, including a **Neural Network** and two other complex machine learning algorithms (**Random Forest** and **XGBoost**), against the traditional **Linear Regression** approach for forecasting sales.
+### Project Overview
+Sales forecasting involves leveraging historical sales data and other relevant factors to predict future sales. Accurate sales forecasting is crucial for businesses, as it enables effective and profitable planning.
 
-The entire process is detailed in the Jupyter notebook and summarized in the accompanying PowerPoint presentation.
+### Objectives
+This project aims to evaluate the effectiveness of both modern and traditional approaches to sales forecasting. Specifically, it will compare the predictive capabilities of a neural network model with those of a traditional linear regression algorithm and two ensemble techniques.
 
+### Methodology
+The project will implement and assess these different models to determine which approach offers the most accurate predictions.
 
-<img width="515" alt="image" src="https://github.com/user-attachments/assets/90d16696-30b4-4cae-8d19-3a0da2286c5e">
+### Outcome
+The analysis will provide insights into the strengths and weaknesses of each forecasting method, guiding businesses in selecting the most suitable approach for their needs.
 
 
 
