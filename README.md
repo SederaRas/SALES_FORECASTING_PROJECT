@@ -17,6 +17,11 @@ The analysis will provide insights into the strengths and weaknesses of each for
 - **Machine Learning Algorithms**: Neural Networks, Linear Regression, Ensemble Techniques (e.g., Random Forest, Gradient Boosting)
 - **Programming Languages**: Python
 - **Data Analysis**: Pandas, NumPy, Scikit-learn
+- **Exploratory Analysis**: Data visualization and statistical techniques for understanding data distribution and relationships
+- **Feature Engineering**: Processing features from raw data to improve model performance
+- **ML Pipeline**: Automating data preprocessing, model training, and evaluation
+- **Hyperparameter Tuning**: Optimizing model parameters for improved accuracy
+- **Model Interpretation**: SHAP, Feature Importance
 - **Data Visualization**: Matplotlib, Seaborn
 - **Evaluation Metrics**: Mean Absolute Error (MAE), Mean Square Error (MSE), Root Mean Square Error (RMSE)
 - **Development Environment**: Jupyter Notebook
