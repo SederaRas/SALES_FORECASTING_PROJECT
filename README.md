@@ -13,7 +13,13 @@ The project will implement and assess these different models to determine which 
 ### Outcome
 The analysis will provide insights into the strengths and weaknesses of each forecasting method, guiding businesses in selecting the most suitable approach for their needs.
 
-
+### Skills and Tools Used
+- **Machine Learning Algorithms**: Neural Networks, Linear Regression, Ensemble Techniques (e.g., Random Forest, Gradient Boosting)
+- **Programming Languages**: Python
+- **Data Analysis**: Pandas, NumPy, Scikit-learn
+- **Data Visualization**: Matplotlib, Seaborn
+- **Evaluation Metrics**: Mean Absolute Error (MAE), Mean Square Error (MSE), Root Mean Square Error (RMSE)
+- **Development Environment**: Jupyter Notebook
 
 <img width="630" alt="image" src="https://github.com/user-attachments/assets/2799e491-eeda-4b4a-9fe6-a7859cb2a90d">
 
